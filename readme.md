@@ -1,0 +1,1 @@
+### this is for arduino uno, where the uno is connected to 3 pzem-004 t v3 and esp32 for serial communication, arduino uno is use to read the electric sensor of pzem and send it to esp32.
